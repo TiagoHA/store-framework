@@ -1,6 +1,6 @@
 {
     "store.home": {
-        "blocks": ["flex-layout.row", "shelf"]
+        "blocks": ["flex-layout.row", "slider-layout#home", "shelf"]
     },
 
     "flex-layout.row": {
@@ -33,6 +33,7 @@
             "maxWidth": "100%"
         }
     },
+
 
     "product-summary.shelf": {
         "children": [
